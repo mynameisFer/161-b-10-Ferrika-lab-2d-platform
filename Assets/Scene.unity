@@ -394,6 +394,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df7b12e12d551bc44ac8ec703fd9a719, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
+  <Bullet>k__BackingField: {fileID: 182108, guid: a5638a192258f4059b0e074542d33fbc, type: 3}
+  <Shootpoint>k__BackingField: {fileID: 1232365506}
 --- !u!1001 &302222084
 PrefabInstance:
   m_ObjectHideFlags: 0
