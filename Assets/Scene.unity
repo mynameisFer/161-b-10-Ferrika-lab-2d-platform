@@ -3073,6 +3073,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Crocodile
   atkRange: 0
   player: {fileID: 0}
+  <Bullet>k__BackingField: {fileID: 115806, guid: 40466c5ac40024bbca1e4b144cdf43c2, type: 3}
+  <Shootpoint>k__BackingField: {fileID: 1884122592}
 --- !u!1 &1536725162
 GameObject:
   m_ObjectHideFlags: 0
